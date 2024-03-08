@@ -1,4 +1,5 @@
 # Bharat-intern-Data-Science-Internship
+Project 1 <br>
 Problem statement :<br>
 Titanic Classification : Algorithm which tells whether the person will be save from sinking or not
 About Dataset :
@@ -12,3 +13,6 @@ PassengerId: Passenger Identity Survived: Whether passenger survived or not (0 =
 
 Dataset : https://www.kaggle.com/datasets/rahulsah06/titanic <br>
 Solution : https://github.com/tushar3364/Bharat-Intern-Taks/blob/main/Task_2%20Titanic%20Classification.ipynb
+
+
+Project 2 <br>
